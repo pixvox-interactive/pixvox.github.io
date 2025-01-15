@@ -1282,6 +1282,9 @@ dl dd {
 .bg-yellow {
     background-color: #ffb822;
 }
+.bg-light-yellow {
+    background-color: #F2B950;
+}
 .bg-pink {
     background-color: #ff3c85;
 }
@@ -2367,7 +2370,7 @@ input[type=radio]:checked + label:before {
 .loading-pic {
     width: 70px;
     height: 70px;
-    background: url(inc/images/loading.GIF) center no-repeat;
+    background: url(inc/images/pixvox-loading.GIF) center no-repeat;
     position: fixed;
     left: 50%;
     top: 50%;
@@ -12305,7 +12308,7 @@ ol.commentlist li .star-rating {
     top: 0;
     opacity: 1;
     z-index: 999999999;
-    background-image: url(../images/loading.gif);
+    background-image: url(../images/pixvox-loading.gif);
     background-repeat: no-repeat;
     background-size: 80px;
     background-position: center;
